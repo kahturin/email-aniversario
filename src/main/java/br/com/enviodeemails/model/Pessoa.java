@@ -1,4 +1,4 @@
-package br.com.enviodeemails;
+package br.com.enviodeemails.model;
 
 public class Pessoa {
     private String nome;
