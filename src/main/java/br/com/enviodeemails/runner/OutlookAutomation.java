@@ -1,11 +1,12 @@
+package br.com.enviodeemails.runner;
+
+import br.com.enviodeemails.utils.ExcelReader;
+import br.com.enviodeemails.model.Pessoa;
 import br.com.enviodeemails.core.DriverFactory;
 import br.com.enviodeemails.pages.EmailPage;
-import br.com.enviodeemails.ExcelReader;
-import br.com.enviodeemails.Pessoa;
-import jdk.jshell.execution.Util;
+import br.com.enviodeemails.utils.Utils;
 import org.openqa.selenium.*;
 import java.util.*;
-import utils.Utils;
 
 public class OutlookAutomation {
     public static void main(String[] args) {

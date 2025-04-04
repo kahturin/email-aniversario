@@ -1,6 +1,5 @@
 package br.com.enviodeemails.core;
 
-import br.com.enviodeemails.config.Config;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;

@@ -1,5 +1,6 @@
-package br.com.enviodeemails;
+package br.com.enviodeemails.utils;
 
+import br.com.enviodeemails.model.Pessoa;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
