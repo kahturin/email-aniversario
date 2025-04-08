@@ -1,3 +1,6 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Visão Geral
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 Este projeto Java automatiza o envio de e-mails personalizados de aniversário utilizando o Outlook Web.
 Ele utiliza Selenium WebDriver para interação com a interface e lê os aniversariantes de um arquivo Excel externo. 
 A mensagem é carregada dinamicamente de um arquivo .txt e os e-mails são enviados com imagens inline, caso existam.
