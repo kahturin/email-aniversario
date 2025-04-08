@@ -21,6 +21,18 @@
             <version>4.19.1</version>
         </dependency>
 
+<!--        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-devtools-v114</artifactId>
+            <version>4.19.1</version>
+        </dependency>
+        -->
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.6.2</version>
+        </dependency>
+
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
@@ -57,6 +69,7 @@
                     <target>14</target>
                 </configuration>
             </plugin>
+<<<<<<< HEAD
 
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
@@ -80,6 +93,10 @@
                     </execution>
                 </executions>
             </plugin>
+=======
+        </plugins>
+    </build>
+>>>>>>> c74d7b312cd6d2fa3b2839710ca30bb1bf60ca98
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

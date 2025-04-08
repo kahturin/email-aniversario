@@ -14,5 +14,8 @@ public class EmailPage {
     public final By botaoNovoEmail = By.xpath("//span[contains(text(),'Novo email')]");
     public final By campoDestinatario = By.xpath("//div[@role='textbox']");
     public final By campoAssunto = By.xpath("//input[@placeholder='Adicionar um assunto']");
+<<<<<<< HEAD
 
+=======
+>>>>>>> c74d7b312cd6d2fa3b2839710ca30bb1bf60ca98
 }

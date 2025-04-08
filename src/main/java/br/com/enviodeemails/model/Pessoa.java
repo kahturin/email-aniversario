@@ -16,8 +16,11 @@ public class Pessoa {
     public String getEmail(){
         return email;
     }
+<<<<<<< HEAD
 
     public String getCaminhoImagem() {
         return "anexos/" + nome.toLowerCase().replace(" ", "_") + ".png";
     }
+=======
+>>>>>>> c74d7b312cd6d2fa3b2839710ca30bb1bf60ca98
 }
